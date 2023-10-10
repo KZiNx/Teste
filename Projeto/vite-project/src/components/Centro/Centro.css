@@ -1,0 +1,24 @@
+.Centro{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    overflow: hidden;
+    position: relative;
+}
+.Centro img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.campo {
+background-color: ;
+   
+
+}
