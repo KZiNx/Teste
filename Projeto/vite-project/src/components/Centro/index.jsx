@@ -1,22 +1,16 @@
-import "./Centro.css";
+import './Centro.css'
+
 function Centro() {
-  return (
-    <header className="Centro">
-      <div>
-        <img src="./src/assets/images/planta.png" alt="Centro" />
-        <section className="campo">
-          <form>
-            <h3>New Arrival</h3>
-            <h2>Discover Our New Collection </h2>
-            <p1>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus, luctus nec ullamcorper mattis.
-            </p1>
-            <button>Buy Now</button>
-          </form>
+    return (
+        <section className='section_banner'>
+            <div className='card'>
+                <p className='text_section'>New Arrival</p>
+                <h1 className='title_section'>Discouver Our New Collection</h1>
+                <p className='text_section'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
+                <a href='#' className='btn_section'>Buy Now</a>
+            </div>
         </section>
-      </div>
-    </header>
-  );
+    )
 }
-export default Centro;
+
+export default Centro

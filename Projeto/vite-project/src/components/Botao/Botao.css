@@ -1,0 +1,23 @@
+.botao{
+    border: solid #B88E2F;
+    background-color: white;
+    color: #b88e2f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:'Poppins', sans-serif;
+    width: 25%;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+ 
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+}
+.botao-espaco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+
+}

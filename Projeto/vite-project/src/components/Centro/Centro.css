@@ -1,20 +1,46 @@
-.Centro{
-    text-align: center;
-    align-items: center;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    justify-content: center;
-    margin: 0 auto;
-    background-color: #fff;
-    border-radius: 10px;
-    
-    overflow: hidden;
-    position: relative;
-}
-.Centro img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+.section_banner {
+    background-image: url("/src/assets/images/planta.png");
+    padding: 205px;
 }
 
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF3E3;
+margin-right: -150px;
+    padding-top: 10px;
+    margin-left: 500px;
+    
+}
+
+.btn_section {
+    border: solid #B88E2F;
+    background-color: #B88E2F;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family:'Poppins', sans-serif;
+    width: 50%;
+    margin-left: 120px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+}
+
+.title_section {
+    color: #B88E2F;
+    font-family:'Poppins', sans-serif;
+    font-size: 34px;
+    gap: 10px;
+}
+
+.text_section {
+    font-family:'Poppins', sans-serif;
+    font-weight: 500;
+    gap: 10px;
+}
