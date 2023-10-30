@@ -1,0 +1,19 @@
+.allPremio {
+    background-color: #FAF3EA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Cartas {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Cartas img {
+    max-width: 50%;
+    max-height: 50%;
+}
