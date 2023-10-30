@@ -6,6 +6,7 @@ import Octeto from "./components/Octeto";
 import Botao from "./components/Botao";
 import Cinquenta from "./components/Cinquenta";
 import Premio from "./components/Premio";
+import Fim from "./components/Fim";
 
 const App = () => {
   return  <div>
@@ -16,6 +17,7 @@ const App = () => {
     <Botao />
     <Cinquenta />
     <Premio />
+    <Fim />
     
   </div>;
 };

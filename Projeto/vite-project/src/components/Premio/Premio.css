@@ -2,7 +2,7 @@
     background-color: #FAF3EA;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -16,4 +16,32 @@
 .Cartas img {
     max-width: 50%;
     max-height: 50%;
+}
+.segundo{
+    display: flex;
+    align-items: right;
+    justify-content: left;
+    padding-left: 6px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #898989;
+    margin-bottom: 5%;
+    padding-bottom: 7px;
+
+}
+.primeiro{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+margin-top: 20px;
+margin-left: 6px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color:#3a3a3a;
+    font-size: 16px;
+    
+}
+.imag{
+    width: 20%;
 }

@@ -1,0 +1,131 @@
+.fim {
+  background-color: #ffffff;
+}
+.column {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Grupo {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  margin-left: 7%;
+  flex-direction: column;
+}
+.top {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  font-weight: normal;
+  color: #000000;
+  margin-bottom: 3%;
+  padding-bottom: 7px;
+  font-weight: bold;
+}
+.local {
+  display: flex;
+  align-items: right;
+  justify-content: left;
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
+  font-weight: normal;
+  color: #898989;
+}
+.link{
+    display: flex;
+    align-items: right;
+    justify-content: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    color: #898989;
+    margin-bottom: 5%;
+    padding-bottom: 7px;
+    margin-top: 25px;
+
+}
+.link2{
+    display: flex;
+    align-items: right;
+    justify-content: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    color: #898989;
+    margin-bottom: 5%;
+    padding-bottom: 7px;
+    margin-top: 25px;
+    margin-left: 3px;
+}
+.links{
+    padding: 5px;
+    margin-right: -6%;
+}
+.complexo{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    margin-top: 25px;
+    font-weight: normal;
+    color: #000000;
+    margin-bottom: 3%;
+    padding-bottom: 7px;
+    font-weight: bold;
+}
+.desce{
+    display: flex;
+    align-items: right;
+    justify-content: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    color: #898989;
+    margin-left: 3px;
+    margin-top: 25px;
+}
+.imagem_linha1{
+margin-top: -30px;
+width: 90%;
+}
+.final{
+    display: flex;
+    margin-top: 69px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000000;
+    
+    font-weight: bold;
+}
+.End{
+display: flex;
+margin-left: -95px;
+margin-top: 10px;
+flex-direction: column;
+margin-right: 100px;
+
+}
+.imagem_linha2{
+    display: flex;
+    margin-left: -5%;
+    margin-right: 15px;
+}
+.finalfinal{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    margin-top: 25px;
+    font-weight: normal;
+    color: #000000;
+    margin-bottom: 30%;
+    padding-bottom: 7px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.imagem_linha3{
+    display: flex;
+   width: 90%; 
+   margin-left: 80px;
+    justify-content: center;
+    align-items: center;
+
+}
